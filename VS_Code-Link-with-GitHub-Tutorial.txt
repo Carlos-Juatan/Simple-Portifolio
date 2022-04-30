@@ -1,0 +1,10 @@
+1 - Com o projeto aberto no vs code click na parte de cima da tela na opção "terminal/New Terminal"
+2 - Criando esse novo terminal na seta do terminal, onde está selecionado (powerShell) troque para (Git Bash)
+3 - Depois delete o terminal powershell do lado direito do terminal
+
+====== Códigos no Terminal =========
+1 - git init
+2 - git status (Arquivos não estão adicionados)
+3 - git add . (Adiciona os arquivos)
+4 - git status (Foram adicionados)
+5 - 

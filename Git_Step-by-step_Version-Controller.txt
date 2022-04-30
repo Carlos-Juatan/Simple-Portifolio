@@ -1,0 +1,37 @@
+1 - Criar uma pasta onde ficarar os arquivos do seu projeto.
+
+2 - Abrir a pasta do rojeto pelo Git Bash "Deve ter instalado o Git (Gerstor de Versões)"
+	- Atravez de códigos pelo Git Bash já aberto.
+	- Ou dentro da pasta do projeto, cilque no botão direito do mouse em algum lugar vazio, e selecione no menu a opção "Git Bash Here"
+
+3 - *Opcional* - Digitar na tela do Git Bash o código "ls" (sem aspas), para verificar os arquivos dentro da pasta.
+
+4 - Digite o código "git init" (Sem aspas) para definir um repositório
+
+5 - Digite o código "git add -A" para adicionar todos os arquivos no repositório
+
+6 - *Opcional* - Digite "git status" para verificar se foi adicionado
+
+======= CRIAR UMA NOVA VERSÃO DO PROJETO (commit)===========
+
+7 - Digite "git commit -m "<Mensagem>" " para congelar os arquivos do projeto criando uma nova versão do projeto autal
+		o (-m "") serve para adionar um comentário sobre a nova versão, o que mudou, ou foi adicionado, etc... 
+		a mensagem é escrita dentro dos aspas Ex: git commit -m "Criando Primera versão do projeto"
+
+====== Linkando Com um repositório do Git Hub ===============
+
+8 - Crie um novo projeto no Git Hub
+
+9 - Copie o link do projeto
+
+10 - Digite o código na tela do Git Bash "git remote add origin <link>
+	- Trogue o "<link>" pelo link do repositório do Git Hub que você copiougit
+
+11 - Digite "git push -u origin master" para enviar para o Git Hub
+
+
+====== Rotina de uso ===============
+
+1 - Digite "git satus" para verificar mudanças.
+2 - Digite "git add -A" para adicionar todos os arquivos mudados.
+3 - Digite => git commit -m "Mudado tal coisa e tal coisa"

@@ -1,0 +1,7 @@
+========== Códigos=============
+
+1 - git config --global user.email "softtech.series@gmail.com"
+2 - git config --local user.name "softtech.series"
+3 - git config --list
+
+========= Tentar Novos commits ==========
