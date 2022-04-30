@@ -7,4 +7,6 @@
 2 - git status (Arquivos não estão adicionados)
 3 - git add . (Adiciona os arquivos)
 4 - git status (Foram adicionados)
-5 - 
+5 - git branch -M main
+6 - git remote add origin https://github.com/Carlos-Juatan/<Nome do Repositório>.git
+7 - git push -u origin main
